@@ -22,6 +22,7 @@ public class WeekTest1 {
 			}
 		}
 	}
+	
 //		2. Write a Java program to print pattern, where each line consists of alphabets. Starting from 'A;
 //		   up to the respective line number
 	
