@@ -1,4 +1,4 @@
-package Mult_Threading;
+package Multi_Threading;
 
 class Task extends Thread {
 	@Override 
